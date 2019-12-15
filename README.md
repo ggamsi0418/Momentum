@@ -1,8 +1,6 @@
 ## VanillaJS Challenge' Final project
 
---------------------------------------------
-
-####The final project should have the following features:
+_The final project should have the following features:_
 
 1. Clock.
 2. Username Persistance.
