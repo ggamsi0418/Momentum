@@ -1,0 +1,7 @@
+/* 구글 웹폰트를 로딩하여 css에 임포트 */
+@import url("https://fonts.googleapis.com/css?family=Varela+Round&display=swap");
+@import "./main.css";
+@import "./center.css";
+@import "./clock.css";
+@import "./weather.css";
+@import "./todo.css";
