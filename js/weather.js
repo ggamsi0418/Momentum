@@ -12,7 +12,7 @@ function getWeather(lat, lng) {
     요청내용은 크롬 개발자 도구의 Network에서 확인 가능
   */
   fetch(
-    `http://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lng}&appid=${API_KEY}&units=metric`
+    `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lng}&appid=${API_KEY}&units=metric`
     // { mode: "no-cors" }
   )
     .then(function(response) {
